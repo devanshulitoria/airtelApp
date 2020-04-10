@@ -1,0 +1,2 @@
+rootProject.name='airtelApp'
+include ':app'

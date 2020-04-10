@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "605191982125",
+    "firebase_url": "https://airtelapp-5feb0.firebaseio.com",
+    "project_id": "airtelapp-5feb0",
+    "storage_bucket": "airtelapp-5feb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605191982125:android:62061e75a08a27f5d63ca4",
+        "android_client_info": {
+          "package_name": "com.example.airtelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605191982125-lnidd904j6cjuv0koumrft8e2jrd7ohn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.airtelapp",
+            "certificate_hash": "c8f5f61d411c34aa4dd0c493818da459ff80d0bf"
+          }
+        },
+        {
+          "client_id": "605191982125-9dvm4kss4pg89rfekm2lrbssmv0kvkin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnJgczeAxTB-Vus3NvdPw1hpXH9CBklKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605191982125-9dvm4kss4pg89rfekm2lrbssmv0kvkin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
